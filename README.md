@@ -1,5 +1,7 @@
 # AzureCognitiveSearchDIO
 
+ESTE REPOSITÓRIO FOI FEITO COM AUXILIO DE FERRAMENTAS DE IA
+
 # Azure Cognitive Search: Utilizando AI Search para Indexação e Consulta de Dados
 
 Este projeto demonstra o uso do **Azure Cognitive Search**, um serviço gerenciado de busca na nuvem da Microsoft que combina técnicas tradicionais de busca com inteligência artificial para oferecer uma experiência de pesquisa avançada e eficiente. O foco principal é mostrar como utilizar os recursos de **AI Search** para realizar a indexação e consulta de dados de forma inteligente, facilitando a extração rápida de informações relevantes a partir de grandes volumes de conteúdo estruturado e não estruturado.
